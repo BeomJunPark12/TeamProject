@@ -13,7 +13,7 @@
 담당역할:
 
 - [아임포트api를 이용한 결제 구현](https://github.com/BeomJunPark12/TeamProject/blob/0619dece01de45cd9ccfa3a0ad91ccde6b60964a/src/main/webapp/WEB-INF/views/payForm/payForm.jsp#L65)
-- ajax를 사용하여 결제 정보 DB저장
+- [ajax와 아임포트api를 사용하여 결제 정보 DB저장] (https://github.com/BeomJunPark12/TeamProject/blob/0619dece01de45cd9ccfa3a0ad91ccde6b60964a/src/main/java/com/gdj59/bookmall/controller/PaymentController.java#L91)
 
 개발 환경:
 
