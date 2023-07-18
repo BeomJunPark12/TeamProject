@@ -22,6 +22,7 @@
 
 ![카카오톡](https://github.com/BeomJunPark12/TeamProject/assets/118503208/1ea92237-3d94-4a14-8fad-5c0b0124570d)
 - 아임포트 api를 이용해서 카카오톡 결제를 할 수 있습니다
+- 결제를 하고 구매한 총 금액이 100,000원이 넘으면 회원등급이 vip로 변경됩니다.
 
 
 
