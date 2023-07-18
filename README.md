@@ -15,7 +15,13 @@
 - [아임포트api를 이용한 결제 구현](https://github.com/BeomJunPark12/TeamProject/blob/0619dece01de45cd9ccfa3a0ad91ccde6b60964a/src/main/webapp/WEB-INF/views/payForm/payForm.jsp#L65)
 - [ajax와 아임포트api를 사용하여 결제 정보 DB저장](https://github.com/BeomJunPark12/TeamProject/blob/0619dece01de45cd9ccfa3a0ad91ccde6b60964a/src/main/java/com/gdj59/bookmall/controller/PaymentController.java#L91)
 
-개발 환경:
+# 구현 화면
+![마이페이지](https://github.com/BeomJunPark12/TeamProject/assets/118503208/a04dbc19-b695-4e3f-85df-00e03095729b)
+![카카오톡](https://github.com/BeomJunPark12/TeamProject/assets/118503208/1ea92237-3d94-4a14-8fad-5c0b0124570d)
+
+
+
+# 개발 환경:
 
 1. 언어: Java
 
